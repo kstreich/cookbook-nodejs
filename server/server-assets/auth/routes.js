@@ -1,5 +1,4 @@
 //THIS FILE SHOULD NOT NEED TO BE CHANGED
-
 let router = require('express').Router();
 let Users = require('../models/user');
 let session = require('./sessions')
